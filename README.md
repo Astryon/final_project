@@ -3,7 +3,7 @@
 ## Homework_EDA (Stage 1) Pandas_Lovers
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1og6cvaGaytVXbDfEG2YFAhy9YhaIQPVY?usp=sharing#scrollTo=fQlFGqU0NjD-)
-[HOLIDAY PACKAGE PREDICTION](https://img.shields.io/badge/godoc-reference-blue.svg)](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction/code)
+[![HOLIDAY PACKAGE PREDICTION](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKaggle&psig=AOvVaw3E3hv0B79JU7szNdHXY3lN&ust=1685282137327000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDmt6rTlf8CFQAAAAAdAAAAABAE)](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction/code)
 
 ## DATASET : HOLIDAY PACKAGE PREDICTION
 #### DESKRIPSI PROJECT
