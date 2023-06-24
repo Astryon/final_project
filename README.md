@@ -2,7 +2,8 @@
 # 🐼 Marketing Package by Pandas Lovers 🐼
 ## HOLIDAY PACKAGE PREDICTION
 
-![Green and Yellow Modern Playful Tour and Travel Banner-min](https://github.com/Astryon/final_project/assets/68798868/0e13866e-cc22-4637-bba1-a34fe43bccdc)
+![Green and Yellow Modern Playful Tour and Travel Banner (2)-min](https://github.com/Astryon/final_project/assets/68798868/fec781bf-e695-48ad-a4c0-d5cd15a6cfa8)
+
 
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1og6cvaGaytVXbDfEG2YFAhy9YhaIQPVY?usp=sharing#scrollTo=fQlFGqU0NjD-)
